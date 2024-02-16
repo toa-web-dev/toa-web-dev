@@ -2,12 +2,18 @@
 
 # 포트폴리오
 ## 1. [Graphify_dev_note](https://github.com/toa-web-dev/Graphify_dev_note) 개인 프로젝트
-
+  - 프로젝트 기간: 
+  - 사용 스택: HTML SCSS Javascript React Next 
+  - 배포: Vercel
 ## 2. [Photoswipe](https://github.com/toa-web-dev/Photoswipe) 개인 프로젝트
-유튜브 채널 *맛있는 코딩 yummy coding* 의 [카드스와이프](https://www.youtube.com/watch?v=O0rgN2H9pEY) 영상을 학습하여 기능을 추가한 프로젝트입니다.
+  
+  - 프로젝트 기간: 
+  - 사용 스택: HTML SCSS Javascript React Next 
+  - 배포: Vercel
+    
 ## 3. [Leisure-Link-Plus](https://github.com/toa-web-dev/Leisure-Link-Plus) 팀 프로젝트
 
- **레저링크_플러스**는 이력서에 제출한 포트폴리오이며, 위의 레저링크 프로젝트를 개인적으로 코드 리뷰하고 개선 및 회고한 프로젝트입니다.
+ **레저링크_플러스**는 위의 레저링크 프로젝트를 개인적으로 코드 리뷰하고 개선한 `회고 프로젝트`입니다.
   - 프로젝트 기간: 23-09-26 ~ 23-10-03 (8일)
 - 사용 스택: HTML CSS Javascript React Recoil
 - 인원: 본인 1명
@@ -18,6 +24,7 @@
 
 <details>
   <summary><i>레저링크</i>는 부트캠프에서 진행한 팀 프로젝트로, 게시글을 작성하고, 다른 게시글을 추천하고 북마크 할 수 있는 여행지의 사진을 공유하는 사이트입니다.</summary>
+  
   - 프로젝트 기간: 2023-08-24~2023-09-19 (27일) 
   - 사용 스택: HTML CSS Javascript React Recoil
   - 인원: 본인을 포함한 프론트엔드 4명 / 백엔드 3명
