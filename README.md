@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+# 기술 스택
+### NextJS 
+- Hydration을 이해하고 SSR과 SSG를 구현 할 수 있습니다.
+- 
+
+### HTML5, CSS3
+- [W3C의 웹 표준 검사기](https://validator.w3.org/)를 사용하여 웹표준을 지키려 노력합니다.
+- [구글 SEO 공식문서](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=ko)를 토대로 검색엔진최적화를 할 수 있습니다.
+- canvas와 SVG 요소를 활용할 수 있으며 transition이나 Keyframe animation 작업을 할 수 있습니다.
+  
+### Javascript
+
+### ReactJS
+- React hooks을 사용 할 수 있으며 custom hook을 사용한 경험이 있습니다.
+- Redux, Recoil을 이용한 전역 상태를 관리 할 수 있습니다.
+- 함수형 컴포넌트에 능숙합니다.
+
+
 # 포트폴리오 링크
 ### 각 프로젝트의 **제목**을 클릭해 해당 프로젝트의 **readme**를 확인 할 수 있습니다 :D
 
