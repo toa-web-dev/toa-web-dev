@@ -3,7 +3,6 @@
 # 기술 스택
 ### NextJS 
 - Hydration을 이해하고 SSR과 SSG를 구현 할 수 있습니다.
-- 
 
 ### HTML5, CSS3
 - [W3C의 웹 표준 검사기](https://validator.w3.org/)를 사용하여 웹표준을 지키려 노력합니다.
