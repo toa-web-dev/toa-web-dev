@@ -3,6 +3,7 @@
 # 기술 스택
 ### NextJS 
 - Hydration을 이해하고 SSR과 SSG를 구현 할 수 있습니다.
+- NextJS에서 제공하는 세그먼트 단위의 URL Path 구조를 이해하고 동적으로 세그먼트 값을 사용 할 수 있습니다.
 
 ### HTML5, CSS3
 - [W3C의 웹 표준 검사기](https://validator.w3.org/)를 사용하며, 웹표준을 지키려 노력합니다.
