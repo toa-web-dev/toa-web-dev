@@ -20,11 +20,13 @@
 - 함수형 컴포넌트에 능숙합니다.
 
 
+<br/>
+<br/>
+
+
 # 포트폴리오 링크
 ### 각 프로젝트의 **제목**을 클릭해 해당 프로젝트의 **readme**를 확인 할 수 있습니다 :D
 
-<br/>
-<br/>
 
 
 # 1. [Graphify_dev_note](https://github.com/toa-web-dev/Graphify_dev_note)
