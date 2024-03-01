@@ -33,7 +33,7 @@
 
 > **문서 관계 시각화 프로젝트**
 >
-> 문서를 네트워크 그래프로 **시**각화하여 문서 간 관계를 쉽게 확인할 수 있도록 한 프로젝트입니다.
+> 문서를 네트워크 그래프로 문서 간 관계를 **시각화**하여 쉽게 확인할 수 있도록 한 프로젝트입니다.
     
 # 2. [Leisure-Link-Plus](https://github.com/toa-web-dev/Leisure-Link-Plus)
 
@@ -45,7 +45,7 @@
 
 > **틴더라이크 이미지 스와이프 프로젝트** 
 >
->  [lorem picsum](https://picsum.photos/) API 통신하여 무작위로 응답받은 사진이 담긴 카드를 넘기며 좋고 싫음을 나타낼 수 있는 프로젝트입니다.
+>  [lorem picsum](https://picsum.photos/)와 API 통신하며, 무작위로 요청한 사진이 담긴 카드를 넘기며 좋고 싫음을 나타낼 수 있는 프로젝트입니다.
 
 <!--
 **toa-web-dev/toa-web-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
