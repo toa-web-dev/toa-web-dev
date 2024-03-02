@@ -47,6 +47,10 @@
 >
 >  [lorem picsum](https://picsum.photos/)와 API 통신하며, 무작위로 요청한 사진이 담긴 카드를 넘기며 좋고 싫음을 나타낼 수 있는 프로젝트입니다.
 
+
+# 애용하는 레퍼런스
+- [MDN web Docs](https://developer.mozilla.org/ko/)
+- [자바스크립트 기본](https://ko.javascript.info/first-steps)
 <!--
 **toa-web-dev/toa-web-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
