@@ -5,19 +5,23 @@
 - Hydration을 이해하고 SSR과 SSG를 구현 할 수 있습니다.
 - 세그먼트 단위의 URL Path 구조를 이해하고 동적으로 세그먼트 값을 사용하여 라우팅을 할 수 있습니다.
 
+### ReactJS
+- React hooks을 사용 할 수 있으며 custom hook으로 특정 기능을 모듈화해 사용한 경험이 있습니다.
+- Redux, Recoil을 이용한 전역 상태를 관리 할 수 있습니다.
+- 함수형 컴포넌트에 능숙합니다.
+
+### Javascript
+- DOM 요소의 CRUD를 하고 이벤트리스너를 적용하는데 능숙합니다.
+- 배열이나 객체의 프로토타입 메서드 사용에 능숙하며 필요한 데이터를 가공하여 사용 할 수 있습니다.
+
 ### HTML5, CSS3
 - [W3C의 웹 표준 검사기](https://validator.w3.org/)를 사용하며, 웹표준을 지키려 노력합니다.
 - [구글 SEO 공식문서](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=ko)를 토대로 검색엔진최적화를 할 수 있습니다.
 - canvas와 SVG 요소를 활용할 수 있으며 transition이나 Keyframe animation 작업을 할 수 있습니다.
   
-### Javascript
-- DOM 요소의 CRUD를 하고 이벤트리스너를 적용하는데 능숙합니다.
-- 배열이나 객체의 프로토타입 메서드 사용에 능숙하며 필요한 데이터를 가공하여 사용 할 수 있습니다..
 
-### ReactJS
-- React hooks을 사용 할 수 있으며 custom hook으로 특정 기능을 모듈화해 사용한 경험이 있습니다.
-- Redux, Recoil을 이용한 전역 상태를 관리 할 수 있습니다.
-- 함수형 컴포넌트에 능숙합니다.
+
+
 
 
 <br/>
