@@ -33,19 +33,21 @@
 
 
 
-# 1. [Graphify_dev_note](https://github.com/toa-web-dev/Graphify_dev_note)
+# 1. [블로깅 프로젝트: Graphify_dev_note](https://github.com/toa-web-dev/Graphify_dev_note)
 
 > **문서 관계 시각화 프로젝트**
 >
-> 문서를 네트워크 그래프로 문서 간 관계를 **시각화**하여 쉽게 확인할 수 있도록 한 프로젝트입니다.
+> 네트워크 그래프로 문서 간 관계를 **시각화**하여 쉽게 확인할 수 있도록 한 프로젝트입니다.
+
+
     
-# 2. [Leisure-Link-Plus](https://github.com/toa-web-dev/Leisure-Link-Plus)
+## 2. [Leisure-Link-Plus](https://github.com/toa-web-dev/Leisure-Link-Plus)
 
 > **무한스크롤 이미지 피드가 있는 여행지 사진 공유 웹사이트**
 >
 > 팀 프로젝트로 진행한 여행지 사진을 공유하는 웹 서비스를 개선한 `회고 프로젝트`입니다.
   
-# 3. [Photoswipe](https://github.com/toa-web-dev/Photoswipe)
+## 3. [Photoswipe](https://github.com/toa-web-dev/Photoswipe)
 
 > **틴더라이크 이미지 스와이프 프로젝트** 
 >
