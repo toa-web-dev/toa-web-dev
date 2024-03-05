@@ -18,6 +18,7 @@
 - [W3C의 웹 표준 검사기](https://validator.w3.org/)를 사용하며 웹표준을 지키려 노력합니다.
 - [구글 SEO 공식문서](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=ko)를 토대로 검색 엔진 최적화를 할 수 있습니다.
 - canvas와 SVG 요소를 활용할 수 있으며, 라이브러리 없이 transition이나 Keyframe animation 작업을 할 수 있습니다.
+- CSS3의 Media Queries, 상대단위 사용, <img> 태그의 srcset 속성을 숙지하고 있으며 간단한 반응형 UI를 만들 수 있습니다.
   
 
 
