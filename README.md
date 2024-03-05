@@ -39,20 +39,18 @@
 > **문서 관계 시각화 프로젝트**
 >
 > 개발 학습을 위해 블로깅하는 문서를 네트워크 그래프로 **시각화**하여 개념을 정리하고 다른 내용과의 연관성을 쉽게 확인 할 수 있는 프로젝트입니다.
-
-
-    
-## 2. [Leisure-Link-Plus](https://github.com/toa-web-dev/Leisure-Link-Plus)
-
-> **무한스크롤 이미지 피드가 있는 여행지 사진 공유 웹사이트**
->
-> 팀 프로젝트로 진행한 여행지 사진을 공유하는 웹 서비스를 개선한 `회고 프로젝트`입니다.
   
-## 3. [Photoswipe](https://github.com/toa-web-dev/Photoswipe)
+## 2. [Photoswipe](https://github.com/toa-web-dev/Photoswipe)
 
 > **틴더라이크 이미지 스와이프 프로젝트** 
 >
 >  [lorem picsum](https://picsum.photos/)와 API 통신하며, 무작위로 요청한 사진이 담긴 카드를 넘기며 좋고 싫음을 나타낼 수 있는 프로젝트입니다.
+
+## 3. [Leisure-Link-Plus](https://github.com/toa-web-dev/Leisure-Link-Plus)
+
+> **무한스크롤 이미지 피드가 있는 여행지 사진 공유 웹사이트**
+>
+> 팀 프로젝트로 진행한 여행지 사진을 공유하는 웹 서비스를 개선한 `회고 프로젝트`입니다.
 
 
 # 애용하는 레퍼런스
