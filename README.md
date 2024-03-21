@@ -40,8 +40,7 @@
 >
 > 개발 학습을 위해 블로깅하는 문서를 네트워크 그래프로 **시각화**하여 개념을 정리하고 다른 내용과의 연관성을 쉽게 확인 할 수 있는 프로젝트입니다.
 
-![image](https://github.com/toa-web-dev/toa-web-dev/assets/85207564/296e8c4d-f9ee-4346-846f-2c60218613ba)
-
+<img src="https://github.com/toa-web-dev/toa-web-dev/assets/85207564/296e8c4d-f9ee-4346-846f-2c60218613ba" width="400" height="400"/>
 
 
 
@@ -51,8 +50,7 @@
 > **틴더라이크 이미지 스와이프 프로젝트** 
 >
 >  [lorem picsum](https://picsum.photos/)와 API 통신하며, 무작위로 요청한 사진이 담긴 카드를 넘기며 좋고 싫음을 나타낼 수 있는 프로젝트입니다.
-
-![image](https://github.com/toa-web-dev/toa-web-dev/assets/85207564/0800c402-fa58-46ee-a2da-0c15cf62c93e)
+  <img src="https://github.com/toa-web-dev/toa-web-dev/assets/85207564/0800c402-fa58-46ee-a2da-0c15cf62c93e" width="400" height="400"/>
 
 
 
