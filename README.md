@@ -53,7 +53,7 @@
 
 > **틴더라이크 이미지 스와이프 프로젝트** 
 >
->  [lorem picsum](https://picsum.photos/)와 API 통신하며, 무작위로 요청한 사진이 담긴 카드를 넘기며 좋고 싫음을 나타낼 수 있는 프로젝트입니다.
+>  [lorem picsum](https://picsum.photos/)와 API 통신하며, 사진이 담긴 카드를 넘기며 좋고 싫음을 나타낼 수 있는 프로젝트입니다.
   <img src="https://github.com/toa-web-dev/toa-web-dev/assets/85207564/0800c402-fa58-46ee-a2da-0c15cf62c93e" width="400" height="400"/>
 
 
