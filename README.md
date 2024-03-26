@@ -23,7 +23,7 @@
 - CSS3의 Media Queries, 상대단위 사용, <img> 태그의 srcset 속성을 숙지하고 있으며 반응형 UI를 만들 수 있습니다.
 - Flexbox, Grid Layout를 사용해 요소의 배치 및 정렬할 수 있습니다.
 - Transitions 및 Animations으로 요소의 상태 변화를 부드럽게 처리하고 애니메이션을 만들 수 있습니다.
-- Custom Properties (Variables)로 사용자 정의 변수를 사용하여 CSS에서 값을 재사용하고 관리할 수 있습니다.
+- Custom Properties (Variables)로 사용자 정의 변수를 사용하여 CSS에서 값을 재사용하고 관리합니다.
 
 
 
