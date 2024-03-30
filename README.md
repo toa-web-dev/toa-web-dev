@@ -44,7 +44,7 @@
 >
 > 개발 학습을 위해 블로깅하는 문서를 네트워크 그래프로 **시각화**하여 개념을 정리하고 다른 내용과의 연관성을 쉽게 확인 할 수 있는 프로젝트입니다.
 
-<img src="https://github.com/toa-web-dev/toa-web-dev/assets/85207564/296e8c4d-f9ee-4346-846f-2c60218613ba" width="400" height="400"/>
+<img src="https://github.com/toa-web-dev/toa-web-dev/assets/85207564/9157830b-1a96-484b-8347-e6f4b21445e7" width="800" height="400"/>
 
 
 
