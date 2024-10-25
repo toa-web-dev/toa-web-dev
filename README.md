@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 # 기술 스택
@@ -62,7 +63,7 @@
 >
 > 팀 프로젝트로 진행한 여행지 사진을 공유하는 웹 서비스를 개선한 `회고 프로젝트`입니다.
 
-<!--
+
 ### 애용하는 레퍼런스
 - [MDN web Docs](https://developer.mozilla.org/ko/)
 - [자바스크립트 기본](https://ko.javascript.info/first-steps)
