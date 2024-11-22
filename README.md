@@ -45,8 +45,6 @@
 
 <img src="https://github.com/toa-web-dev/toa-web-dev/assets/85207564/9157830b-1a96-484b-8347-e6f4b21445e7" width="800" height="400"/>
 
-
-
   
 ## 2. [Photoswipe](https://github.com/toa-web-dev/Photoswipe)
 
@@ -63,10 +61,17 @@
 >
 > 팀 프로젝트로 진행한 여행지 사진을 공유하는 웹 서비스를 개선한 `회고 프로젝트`입니다.
 
+## 4. [웹 개발 연습장](https://github.com/toa-web-dev/toa_web_notebook)
+
+> **웹 개발 중 학습한 내용을 회고하는 내용을 담고 있습니다.**
+> 각 스니펫 별로 readme.md에 회고를 작성했습니다.
+
 
 ### 애용하는 레퍼런스
+- 코어 자바스크립트 도서
 - [MDN web Docs](https://developer.mozilla.org/ko/)
 - [자바스크립트 기본](https://ko.javascript.info/first-steps)
+
 
 **toa-web-dev/toa-web-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
