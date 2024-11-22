@@ -1,5 +1,3 @@
-<!--
-### Hi there 👋
 
 # 기술 스택
 ### NextJS 
@@ -53,13 +51,15 @@
 >  [lorem picsum](https://picsum.photos/)와 API 통신하며, 사진이 담긴 카드를 넘기며 좋고 싫음을 나타낼 수 있는 프로젝트입니다.
   <img src="https://github.com/toa-web-dev/toa-web-dev/assets/85207564/0800c402-fa58-46ee-a2da-0c15cf62c93e" width="400" height="400"/>
 
-
+<br/>
 
 ## 3. [Leisure-Link-Plus](https://github.com/toa-web-dev/Leisure-Link-Plus)
 
 > **무한스크롤 이미지 피드가 있는 여행지 사진 공유 웹사이트**
 >
 > 팀 프로젝트로 진행한 여행지 사진을 공유하는 웹 서비스를 개선한 `회고 프로젝트`입니다.
+
+<br/>
 
 ## 4. [웹 개발 연습장](https://github.com/toa-web-dev/toa_web_notebook)
 
@@ -73,16 +73,3 @@
 - [자바스크립트 기본](https://ko.javascript.info/first-steps)
 
 
-**toa-web-dev/toa-web-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
