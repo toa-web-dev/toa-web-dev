@@ -34,17 +34,8 @@
  각 프로젝트의 제목을 클릭해 해당 프로젝트의 **Readme**를 확인 할 수 있습니다 _:D_
 
 <br/>
-
-# 1. [블로깅 프로젝트: Graphify_dev_note](https://github.com/toa-web-dev/Graphify_dev_note)
-
-> **문서 관계 시각화 프로젝트**
->
-> 개발 학습을 위해 블로깅하는 문서를 네트워크 그래프로 **시각화**하여 개념을 정리하고 다른 내용과의 연관성을 쉽게 확인 할 수 있는 프로젝트입니다.
-
-<img src="https://github.com/toa-web-dev/toa-web-dev/assets/85207564/9157830b-1a96-484b-8347-e6f4b21445e7" width="800" height="400"/>
-
   
-## 2. [Photoswipe](https://github.com/toa-web-dev/Photoswipe)
+## 1. [Photoswipe](https://github.com/toa-web-dev/Photoswipe)
 
 > **틴더라이크 이미지 스와이프 프로젝트** 
 >
@@ -52,6 +43,32 @@
   <img src="https://github.com/toa-web-dev/toa-web-dev/assets/85207564/0800c402-fa58-46ee-a2da-0c15cf62c93e" width="400" height="400"/>
 
 <br/>
+
+## 4. [웹 개발 연습장](https://github.com/toa-web-dev/toa_web_notebook)
+
+> **웹 개발 중 학습한 내용을 회고하는 내용을 담고 있습니다.**
+> 각 스니펫 별로 readme.md에 회고를 작성했습니다.
+
+<br/>
+
+---
+
+<br/>
+
+# 💥 현재 아래의 프로젝트는 서버를 복구할 수 없어 이상 정상적인 작동이 불가능한 점 양해 부탁드립니다.
+<br/>
+<br/>
+
+## 2. [블로깅 프로젝트: Graphify_dev_note](https://github.com/toa-web-dev/Graphify_dev_note)
+
+> **문서 관계 시각화 프로젝트**
+>
+> 개발 학습을 위해 블로깅하는 문서를 네트워크 그래프로 **시각화**하여 개념을 정리하고 다른 내용과의 연관성을 쉽게 확인 할 수 있는 프로젝트입니다.
+
+<img src="https://github.com/toa-web-dev/toa-web-dev/assets/85207564/9157830b-1a96-484b-8347-e6f4b21445e7" width="800" height="400"/>
+
+<br/>
+
 
 ## 3. [Leisure-Link-Plus](https://github.com/toa-web-dev/Leisure-Link-Plus)
 
@@ -61,10 +78,7 @@
 
 <br/>
 
-## 4. [웹 개발 연습장](https://github.com/toa-web-dev/toa_web_notebook)
 
-> **웹 개발 중 학습한 내용을 회고하는 내용을 담고 있습니다.**
-> 각 스니펫 별로 readme.md에 회고를 작성했습니다.
 
 
 ### 애용하는 레퍼런스
