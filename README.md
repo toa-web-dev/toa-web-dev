@@ -1,4 +1,14 @@
 
+
+# [웹 개발 연습장(링크)](https://github.com/toa-web-dev/toa_web_notebook)
+
+ **웹 개발 중 학습한 내용을 회고하는 내용을 담고 있습니다.**
+ - 각 스니펫 별로 readme.md에 회고를 작성했습니다.
+ - 단순 코드 업로드가 아닌 학습하고 내 것으로 만드는 것에 중점을 두고 있습니다. :)
+
+<br/>
+
+
 # 기술 스택
 ### NextJS 
 - Hydration을 이해하고 SSR과 SSG를 구현 할 수 있습니다.
@@ -42,21 +52,12 @@
 >  [lorem picsum](https://picsum.photos/)와 API 통신하며, 사진이 담긴 카드를 넘기며 좋고 싫음을 나타낼 수 있는 프로젝트입니다.
   <img src="https://github.com/toa-web-dev/toa-web-dev/assets/85207564/0800c402-fa58-46ee-a2da-0c15cf62c93e" width="400" height="400"/>
 
-<br/>
-
-## 4. [웹 개발 연습장](https://github.com/toa-web-dev/toa_web_notebook)
-
-> **웹 개발 중 학습한 내용을 회고하는 내용을 담고 있습니다.**
-> 각 스니펫 별로 readme.md에 회고를 작성했습니다.
-> 단순 코드 업로드가 아닌 학습하고 내 것으로 만드는 것에 중점을 두고 있습니다. :)
-
-<br/>
 
 ---
 
 <br/>
 
-# 💥 현재 아래의 프로젝트는 서버를 복구할 수 없어 이상 정상적인 작동이 불가능한 점 양해 부탁드립니다.
+#  현재 아래의 프로젝트는 서버를 복구할 수 없어 이상 정상적인 작동이 불가능한 점 양해 부탁드립니다.
 <br/>
 <br/>
 
