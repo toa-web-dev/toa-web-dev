@@ -37,7 +37,7 @@
 
 # [ONSPLASH](https://github.com/toa-web-dev/OnSplash)
 
-### 이미지 API를 활용한 이미지 피드 웹 프로젝트입니다
+### 이미지 API를 활용한 이미지 피드 웹 프로젝트로 현재 개발 중 입니다
 - 비동기 처리로 서버에서 응답 받은 JSON 데이터를 가공
 - Intersection Observer API로 무한 스크롤링
 - 이미지 로딩 시 스켈레톤 로더 구현
