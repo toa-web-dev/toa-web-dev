@@ -35,8 +35,10 @@
 
 <br/>
 
-# [ONSPLASH 배포 주소(https://on-splash.vercel.app/)](https://on-splash.vercel.app/)
-# [ONSPLASH 저장소](https://github.com/toa-web-dev/OnSplash)
+#ONSPLASH
+
+## [배포 주소(https://on-splash.vercel.app/)](https://on-splash.vercel.app/)
+## [저장소(https://github.com/toa-web-dev/OnSplash)](https://github.com/toa-web-dev/OnSplash)
 
 ### 이미지 API를 활용한 이미지 피드 웹 프로젝트로 현재 개발 중 입니다
 #### vercel을 사용해 CI/CD 파이프라인을 구축하였습니다. 
