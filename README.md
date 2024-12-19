@@ -35,7 +35,7 @@
 
 <br/>
 
-#ONSPLASH
+# ONSPLASH(무한스크롤 이미지피드 사이트)
 
 ## [배포 주소(https://on-splash.vercel.app/)](https://on-splash.vercel.app/)
 ## [저장소(https://github.com/toa-web-dev/OnSplash)](https://github.com/toa-web-dev/OnSplash)
