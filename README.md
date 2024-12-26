@@ -36,17 +36,18 @@
  각 프로젝트의 제목을 클릭해 해당 프로젝트의 **Readme**를 확인 할 수 있습니다 _:D_
  
 <br/>
-<br/>
 
-# ONSPLASH(무한스크롤 이미지피드 사이트)
+# 1. ONSPLASH (무한스크롤 이미지피드 사이트)
 
 ![image](https://github.com/user-attachments/assets/889ac1e7-d614-4ece-9d48-191acd54f081)
 
 <br/>
-## [배포 주소(https://on-splash.vercel.app/)](https://on-splash.vercel.app/)
-### [저장소(https://github.com/toa-web-dev/OnSplash)](https://github.com/toa-web-dev/OnSplash)
 
-### 이미지 API를 활용한 이미지 피드 웹 프로젝트입니다.
+## [배포 주소(https://on-splash.vercel.app/)](https://on-splash.vercel.app/)
+
+#### [저장소 repository](https://github.com/toa-web-dev/OnSplash)
+
+#### 이미지 API를 활용한 이미지 피드 웹 프로젝트입니다.
 #### vercel을 사용해 CI/CD 파이프라인을 구축하였습니다. 
 - 비동기 처리로 서버에서 응답 받은 JSON 데이터를 가공
 - Intersection Observer API로 무한 스크롤링
@@ -54,8 +55,39 @@
 - 뷰포트 너비에 따라 적응형 UI 구현
   
 <br/>
+ <br/>
+  
+# 2. Photoswipe
 
-# [웹 개발 연습장](https://github.com/toa-web-dev/toa_web_notebook)
+ **틴더라이크 이미지 스와이프 프로젝트** 
+
+  [lorem picsum](https://picsum.photos/)와 API 통신하며, 사진이 담긴 카드를 넘기며 좋고 싫음을 나타낼 수 있는 프로젝트입니다.
+ <img src="https://github.com/toa-web-dev/toa-web-dev/assets/85207564/0800c402-fa58-46ee-a2da-0c15cf62c93e" width="400" height="400"/>
+
+## [배포 주소(https://photoswipe-agl3a4eeo-toas-projects.vercel.app/)](https://photoswipe-agl3a4eeo-toas-projects.vercel.app/)
+
+#### [저장소 repository](https://github.com/toa-web-dev/Photoswipe)
+
+ 
+ <br/>
+ <br/>
+
+# 3. Graphify_dev_note (블로깅 프로젝트)
+
+> **문서 관계 시각화 프로젝트**
+>
+> 개발 학습을 위해 블로깅하는 문서를 네트워크 그래프로 **시각화**하여 개념을 정리하고 다른 내용과의 연관성을 쉽게 확인 할 수 있는 프로젝트입니다.
+
+<img src="https://github.com/toa-web-dev/toa-web-dev/assets/85207564/9157830b-1a96-484b-8347-e6f4b21445e7" width="800" height="400"/>
+
+## [배포 주소(https://graphify-dev-note.vercel.app/)](https://graphify-dev-note.vercel.app/)
+
+#### [저장소 repository](https://github.com/toa-web-dev/Graphify_dev_note)
+
+ <br/>
+ <br/>
+
+# 4. [웹 개발 회고록](https://github.com/toa-web-dev/toa_web_notebook)
 
  **웹 개발 중 학습한 내용을 회고하는 내용을 담고 있습니다.**
  - 각 스니펫 별로 readme.md에 회고를 작성했습니다.
@@ -63,16 +95,19 @@
 
 <br/>
 
-  
-## 1. [Photoswipe](https://github.com/toa-web-dev/Photoswipe)
-
-> **틴더라이크 이미지 스와이프 프로젝트** 
->
->  [lorem picsum](https://picsum.photos/)와 API 통신하며, 사진이 담긴 카드를 넘기며 좋고 싫음을 나타낼 수 있는 프로젝트입니다.
-  <img src="https://github.com/toa-web-dev/toa-web-dev/assets/85207564/0800c402-fa58-46ee-a2da-0c15cf62c93e" width="400" height="400"/>
 
 
----
+
+
+### 애용하는 레퍼런스
+- 코어 자바스크립트 도서
+- [MDN web Docs](https://developer.mozilla.org/ko/)
+- [자바스크립트 기본](https://ko.javascript.info/first-steps)
+
+
+
+
+
 <!--
 <br/>
 
@@ -80,13 +115,7 @@
 <br/>
 <br/>
 
-## 2. [블로깅 프로젝트: Graphify_dev_note](https://github.com/toa-web-dev/Graphify_dev_note)
 
-> **문서 관계 시각화 프로젝트**
->
-> 개발 학습을 위해 블로깅하는 문서를 네트워크 그래프로 **시각화**하여 개념을 정리하고 다른 내용과의 연관성을 쉽게 확인 할 수 있는 프로젝트입니다.
-
-<img src="https://github.com/toa-web-dev/toa-web-dev/assets/85207564/9157830b-1a96-484b-8347-e6f4b21445e7" width="800" height="400"/>
 
 <br/>
 
@@ -99,12 +128,4 @@
 
 <br/>
 -->
-
-
-
-### 애용하는 레퍼런스
-- 코어 자바스크립트 도서
-- [MDN web Docs](https://developer.mozilla.org/ko/)
-- [자바스크립트 기본](https://ko.javascript.info/first-steps)
-
 
