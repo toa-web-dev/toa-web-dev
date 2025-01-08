@@ -37,7 +37,7 @@
  
 <br/>
 
-# 1. ONSPLASH (무한스크롤 이미지피드 사이트)
+## 1. ONSPLASH (무한스크롤 이미지피드 사이트)
 
 ![image](https://github.com/user-attachments/assets/889ac1e7-d614-4ece-9d48-191acd54f081)
 
@@ -57,7 +57,7 @@
 <br/>
  <br/>
   
-# 2. Photoswipe
+## 2. Photoswipe
 
  **틴더라이크 이미지 스와이프 프로젝트** 
 
@@ -72,7 +72,7 @@
  <br/>
  <br/>
 
-# 3. Graphify_dev_note (블로깅 프로젝트)
+## 3. Graphify_dev_note (블로깅 프로젝트)
 
 > **문서 관계 시각화 프로젝트**
 >
@@ -85,17 +85,6 @@
 #### [저장소 repository](https://github.com/toa-web-dev/Graphify_dev_note)
 
  <br/>
- <br/>
-
-# 4. [웹 개발 회고록](https://github.com/toa-web-dev/toa_web_notebook)
-
- **웹 개발 중 학습한 내용을 회고하는 내용을 담고 있습니다.**
- - 각 스니펫 별로 readme.md에 회고를 작성했습니다.
- - 단순 코드 업로드가 아닌 학습하고 내 것으로 만드는 것에 중점을 두고 있습니다. :)
-
-<br/>
-
-
 
 
 
@@ -109,6 +98,15 @@
 
 
 <!--
+<br/>
+ <br/>
+
+# 4. [웹 개발 회고록](https://github.com/toa-web-dev/toa_web_notebook)
+
+ **웹 개발 중 학습한 내용을 회고하는 내용을 담고 있습니다.**
+ - 각 스니펫 별로 readme.md에 회고를 작성했습니다.
+ - 단순 코드 업로드가 아닌 학습하고 내 것으로 만드는 것에 중점을 두고 있습니다. :)
+
 <br/>
 
 #  현재 아래의 프로젝트는 서버를 복구할 수 없어 이상 정상적인 작동이 불가능한 점 양해 부탁드립니다.
