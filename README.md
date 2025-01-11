@@ -39,7 +39,9 @@
 
 ## 1. ONSPLASH (무한스크롤 이미지피드 사이트)
 
-![image](https://github.com/user-attachments/assets/889ac1e7-d614-4ece-9d48-191acd54f081)
+![image](https://github.com/user-attachments/assets/d43fc3e9-934a-4811-a706-fe4a0e3dfc67)
+
+
 
 <br/>
 
